@@ -1,2 +1,5 @@
 # exploding-cat-game-
-a full Stack code for the develpoment of the project using react reducx and backend
+A full Stack code for the develpoment of the project using react reducx and 
+Backend Development with Golang:
+
+
